@@ -3,7 +3,7 @@
 Pre-requisites:
 - python3
 
-One Command to Run:
+One Command Run:
 <br />
 (just copy/paste all this in a terminal)
 ```
