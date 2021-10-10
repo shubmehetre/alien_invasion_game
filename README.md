@@ -3,7 +3,8 @@
 Pre-requisites:
 - python3
 
-To Run:
+One Command to Run:
+(just copy/paste all in a terminal)
 ```
 git clone https://github.com/shubmehetre/alien_invasion_game.git
 cd alien_invasion_game
