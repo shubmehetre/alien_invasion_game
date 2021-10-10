@@ -1,7 +1,5 @@
 ## Alien Invasion Game
 
-Complete.
-
 Pre-requisites:
 - python3
 
