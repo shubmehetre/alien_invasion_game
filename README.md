@@ -1,5 +1,8 @@
 ## Alien Invasion Game
 
+Peek:
+![image](https://user-images.githubusercontent.com/37409002/174050425-ecc24e6d-ff0b-41ea-8c88-0cca8cb13e32.png)
+
 Pre-requisites:
 - python3
 
